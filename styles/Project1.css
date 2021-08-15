@@ -1,0 +1,58 @@
+*{
+    margin: auto;
+    width: 100%;
+}
+body{
+    background: url(/styles/assets/meghan-holmes-buWcS7G1_28-unsplash.jpg) center center fixed no-repeat;
+    background-size: cover;
+}
+.gym{
+    padding-top: 150px;
+    margin: 0 auto;
+    
+}
+#gym__info{
+    text-align: center;
+    border: none 10px;
+    width: 40%;
+}
+#gym__info h1{
+    color: white;
+    font-size: 3em;
+}
+#gym__info span{
+    color: white;
+    border: solid 5px rgb(23, 154, 55);
+    background-color: rgb(23, 154, 55);
+    outline: solid rgb(125, 243, 154);
+    font-weight: 600;
+}
+#gym__info p{
+    color: white;
+    text-align: center justify;
+}
+#gym__card{
+    color: black;
+    text-align: center;
+    border: solid 5px rgb(23, 154, 55);
+    background-color: white;
+    width: 42%;
+    border-radius: 20px;
+    
+}
+#gym__card p{
+    padding: 1em;
+}
+#gym__card span{
+    font-weight: bold;
+    padding: 1em;
+}
+#gym__card a{
+    text-decoration: none;
+    color: black;
+    border: solid 1px rgb(191, 250, 155);
+    border-radius: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(191, 250, 155);
+}
