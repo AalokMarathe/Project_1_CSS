@@ -18,7 +18,7 @@ body{
 }
 #gym__info h1{
     color: white;
-    font-size: 3em;
+    font-size: 6em;
 }
 #gym__info span{
     color: white;
@@ -26,10 +26,12 @@ body{
     background-color: rgb(23, 154, 55);
     outline: solid rgb(125, 243, 154);
     font-weight: 600;
+    font-size: 2em;
 }
 #gym__info p{
     color: white;
     text-align: center justify;
+    font-size: 1.5em;
 }
 #gym__card{
     color: black;
@@ -42,17 +44,20 @@ body{
 }
 #gym__card p{
     padding: 1em;
+    font-size: 1.5em;
 }
 #gym__card span{
     font-weight: bold;
     padding: 1em;
+    font-size: 1.5em;
 }
 #gym__card a{
     text-decoration: none;
     color: black;
     border: solid 1px rgb(191, 250, 155);
-    border-radius: 2px;
+    border-radius: 6px;
     padding-left: 10px;
     padding-right: 10px;
     background-color: rgb(191, 250, 155);
+    font-size: 2em;
 }
